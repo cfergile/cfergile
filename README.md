@@ -20,7 +20,7 @@ Feel free to explore my repositories and see how I approach cloud engineering!
 
 Stay connected and follow my journey in cloud engineering:
 
-- 💼 [LinkedIn](www.linkedin.com/in/claude-fergile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/claude-fergile/)
 - 📝 [Medium Blog](https://medium.com/@cfergile1/about)
 - 🌐 [Personal Website](https://clauderesume.com/)
 
