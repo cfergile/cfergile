@@ -1,24 +1,31 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-I'm an **Emerging Cloud Engineer** with a strong focus on **AWS solutions** and a passion for **cloud infrastructure, automation, and scalability**. With a foundation in cloud fundamentals and a drive to continuously learn, my mission is to build innovative cloud solutions that make a real-world impact.
+I'm an **Emerging Cloud Engineer** focused on building and deploying **AWS-based cloud solutions** with an emphasis on **automation, infrastructure, and scalable backend systems**.
+
+I use this space to document my journey from cloud fundamentals to production-ready cloud engineering through hands-on projects and real-world implementations.
+
+---
+
+## 🚀 What I'm Currently Building
+
+- ☁️ **Journal API** — FastAPI + PostgreSQL backend deployed using cloud-native practices
+- 🐳 Containerized applications using Docker and modern development workflows
+- 🏗 Infrastructure automation with AWS and Infrastructure as Code concepts
+- 📈 Continuous learning through cloud labs and DevOps tooling
 
 ---
 
 ## 🌟 Purpose of My GitHub
 
-This GitHub is my space to:
+This GitHub serves as my engineering portfolio where I:
 
-- 💻 Showcase **projects** that demonstrate my skills in AWS, automation, and cloud-native tools.
-- 📚 Share **knowledge** and practical insights through tutorials and resources.
-- 🤝 Collaborate with the **cloud engineering community** to solve challenging problems and innovate together.
-
-Feel free to explore my repositories and see how I approach cloud engineering!
+- 💻 Build and showcase cloud and backend projects
+- 📚 Share technical learning through tutorials and write-ups
+- 🤝 Collaborate and grow within the cloud engineering community
 
 ---
 
 ## 📬 Let's Connect
-
-Stay connected and follow my journey in cloud engineering:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/claude-fergile/)
 - 📝 [Medium Blog](https://medium.com/@cfergile1/about)
@@ -26,11 +33,11 @@ Stay connected and follow my journey in cloud engineering:
 
 ---
 
-## 🚀 Keywords That Define My Work
+## 🧰 Technologies & Focus Areas
 
-**AWS**, **Cloud Engineering**, **Infrastructure as Code (IaC)**, **Automation**, **Scalability**, **EC2**, **S3**, **CloudFormation**, **Serverless Architecture**, **Cloud Security**, **DevOps Practices**
+**AWS • Cloud Engineering • Infrastructure as Code • Automation • FastAPI • Docker • PostgreSQL • EC2 • S3 • CloudFormation • DevOps Practices • Cloud Security**
 
 ---
 
-Thank you for visiting! Whether you're a fellow developer, a recruiter, or someone curious about the cloud, I hope you find value in my work. Let's innovate and grow together! 🌩️
+⭐ Thanks for visiting! I'm continuously building, learning, and improving — feel free to explore my repositories and follow along on my cloud engineering journey.
 
