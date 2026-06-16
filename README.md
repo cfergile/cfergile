@@ -10,7 +10,7 @@ I use this space to document my journey from cloud fundamentals to production-re
 
 - ☁️ **Journal API** — FastAPI + PostgreSQL backend deployed using cloud-native practices
 - 🐳 Containerized applications using Docker and modern development workflows
-- 🏗 Infrastructure automation with AWS and Infrastructure as Code concepts
+- 🏗 Infrastructure automation with AWS & GCP and Infrastructure as Code concepts
 - 📈 Continuous learning through cloud labs and DevOps tooling
 
 ---
