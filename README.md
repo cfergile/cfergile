@@ -1,43 +1,60 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+<h1>Hey, I'm Claude Fergile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-I'm an **Emerging Cloud Engineer** focused on building and deploying **AWS-based cloud solutions** with an emphasis on **automation, infrastructure, and scalable backend systems**.
+<a href="https://github.com/cfergile">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&width=620&lines=IT+Support+%E2%86%92+Cloud+Engineering;Hybrid+networking+on+AWS+%2B+Google+Cloud;Terraform+%C2%B7+IAM+%C2%B7+Troubleshooting" alt="Typing SVG" />
+</a>
 
-I use this space to document my journey from cloud fundamentals to production-ready cloud engineering through hands-on projects and real-world implementations.
+I support users and systems on an IT help desk by day and build cloud infrastructure the rest of the time. I like problems that cross layers — identity, networking, compute — and I document everything so the next person can reproduce it.
 
----
-
-## 🚀 What I'm Currently Building
-
-- ☁️ **Journal API** — FastAPI + PostgreSQL backend deployed using cloud-native practices
-- 🐳 Containerized applications using Docker and modern development workflows
-- 🏗 Infrastructure automation with AWS & GCP and Infrastructure as Code concepts
-- 📈 Continuous learning through cloud labs and DevOps tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,githubactions,linux,bash,powershell,git,vscode" />
+</p>
 
 ---
 
-## 🌟 Purpose of My GitHub
+### 🧰 What I Work With
 
-This GitHub serves as my engineering portfolio where I:
-
-- 💻 Build and showcase cloud and backend projects
-- 📚 Share technical learning through tutorials and write-ups
-- 🤝 Collaborate and grow within the cloud engineering community
-
----
-
-## 📬 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/claude-fergile/)
-- 📝 [Medium Blog](https://medium.com/@cfergile1/about)
-- 🌐 [Personal Website](https://clauderesume.com/)
+| Area | Tools |
+|---|---|
+| **Cloud** | AWS (VPC, EC2, S3, Site-to-Site VPN, IAM) · Google Cloud (VPC, Compute Engine, HA VPN, Cloud Router, load balancing, MIGs) |
+| **Identity** | Microsoft Entra ID · Active Directory concepts · Microsoft Graph · MFA / SSO concepts |
+| **Networking** | IPsec · BGP · CIDR planning · routing · firewall rules · load balancer health checks |
+| **IaC & CI/CD** | Terraform · GitHub Actions |
+| **Scripting & OS** | Bash · PowerShell · Linux · Windows |
 
 ---
 
-## 🧰 Technologies & Focus Areas
+### 🚀 Featured Projects
 
-**AWS • Cloud Engineering • Infrastructure as Code • Automation • FastAPI • Docker • PostgreSQL • EC2 • S3 • CloudFormation • DevOps Practices • Cloud Security**
+| Project | Highlights |
+|---|---|
+| [**Hybrid Cloud HA VPN: GCP ↔ AWS**](https://github.com/cfergile/TheoU_7.5_BaM_weekB/tree/main/14-Week14) | 4 redundant IPsec tunnels, 4 BGP sessions, dynamic route exchange, private VM ↔ EC2 traffic validated both ways |
+| [**Autoscaling, Self-Healing Web Tier (Terraform)**](https://github.com/cfergile/TheoU_7.5_BaM_weekB/tree/main/10-Week10/terraform) | Global HTTP load balancer → regional MIG, CPU autoscaling (4–6), autohealing on `/healthz`, configured through variables |
+| [**Troubleshooting a Broken Web Server**](https://github.com/cfergile/TheoU_7.5_BaM_weekB/blob/main/10-Week10/documentation/runbook.md) | Six stacked faults found layer by layer — firewall priority, source range, tags, external IP, missing default route |
+| [**clauderesume.com**](https://github.com/cfergile/cloud-resume-challenge) | My résumé site on AWS S3, deployed automatically with GitHub Actions |
+
+➡️ **Runbooks, screenshots and Terraform:** [TheoU_7.5_BaM_weekB](https://github.com/cfergile/TheoU_7.5_BaM_weekB)
 
 ---
 
-⭐ Thanks for visiting! I'm continuously building, learning, and improving — feel free to explore my repositories and follow along on my cloud engineering journey.
+### 🏅 Certifications
 
+<a href="https://www.credly.com/badges/15b6a59e-7de6-4164-9c81-d9160bb37cd2/public_url"><img src="https://raw.githubusercontent.com/cfergile/cloud-resume-challenge/main/aws-certified-solutions-architect-associate.png" width="110" alt="AWS Certified Solutions Architect – Associate"></a>
+<a href="https://www.credly.com/badges/be41b1cf-6a04-4cf2-9dc1-ad8f772bb105/public_url"><img src="https://raw.githubusercontent.com/cfergile/cloud-resume-challenge/main/aws-certified-cloud-practitioner.png" width="110" alt="AWS Certified Cloud Practitioner"></a>
+
+---
+
+### 📊 GitHub Activity
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cfergile&show_icons=true&hide_border=true&count_private=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfergile&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-clauderesume.com-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clauderesume.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-claude--fergile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claude-fergile/)
+[![Medium](https://img.shields.io/badge/Medium-@cfergile1-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cfergile1/about)
