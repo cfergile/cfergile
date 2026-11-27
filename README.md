@@ -1,4 +1,4 @@
-<h1>Hey, I'm Claude Fergile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<img src="graphics/banner.svg" alt="Claude Fergile — Cloud & identity" width="100%">
 
 <a href="https://github.com/cfergile">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&width=620&lines=IT+Support+%E2%86%92+Cloud+Engineering;Hybrid+networking+on+AWS+%2B+Google+Cloud;Terraform+%C2%B7+IAM+%C2%B7+Troubleshooting" alt="Typing SVG" />
